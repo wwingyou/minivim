@@ -1,3 +1,3 @@
-# JAVAVIMS
+# MINIVIM
 
-Neovim configuration for Java developers.
+Minimal neovim configuration
