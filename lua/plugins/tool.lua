@@ -3,6 +3,7 @@ return {
     'epwalsh/obsidian.nvim',
     version = '*',  -- recommended, use latest release instead of latest commit
     lazy = true,
+    enabled = false,
     ft = 'markdown',
     keys = {
       { '<leader>fn', '<cmd>ObsidianSearch<CR>', mode = 'n', desc = '[Obsidian] search notes' },
